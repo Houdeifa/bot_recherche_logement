@@ -1,0 +1,10 @@
+*.csv
+tmp_files
+*.html
+*.htm
+<<<<<<< HEAD
+tmp_fichiers
+=======
+tmp_fichiers
+api_keys.txt
+>>>>>>> ddc44c8 (TMP)
